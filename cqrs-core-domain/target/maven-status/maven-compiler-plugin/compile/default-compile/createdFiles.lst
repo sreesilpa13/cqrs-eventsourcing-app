@@ -1,0 +1,12 @@
+com\cqrs\aggregates\Status.class
+com\cqrs\events\BaseEvent.class
+com\cqrs\events\AccountCreatedEvent.class
+com\cqrs\events\MoneyCreditedEvent.class
+com\cqrs\commands\DebitMoneyCommand.class
+com\cqrs\events\AccountHeldEvent.class
+com\cqrs\commands\BaseCommand.class
+com\cqrs\commands\CreateAccountCommand.class
+com\cqrs\commands\CreditMoneyCommand.class
+com\cqrs\events\MoneyDebitedEvent.class
+com\cqrs\events\AccountActivatedEvent.class
+com\cqrs\aggregates\AccountAggregate.class

@@ -1,0 +1,12 @@
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\events\BaseEvent.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\events\MoneyDebitedEvent.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\events\AccountCreatedEvent.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\commands\CreateAccountCommand.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\commands\DebitMoneyCommand.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\aggregates\Status.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\events\MoneyCreditedEvent.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\commands\CreditMoneyCommand.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\events\AccountHeldEvent.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\aggregates\AccountAggregate.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\commands\BaseCommand.java
+D:\microservices\cqrs-eventsourcing-app\cqrs-core-domain\src\main\java\com\cqrs\events\AccountActivatedEvent.java
