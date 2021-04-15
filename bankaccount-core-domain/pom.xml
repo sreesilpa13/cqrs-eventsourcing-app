@@ -7,7 +7,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
   <groupId>com.cqrs</groupId>
-  <artifactId>cqrs-core-domain</artifactId>
+  <artifactId>bankaccount-core-domain</artifactId>
   <version>1.0.0</version>
   
   <properties>

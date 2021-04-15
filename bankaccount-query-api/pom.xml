@@ -10,10 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cqrs</groupId>
-	<artifactId>01-es-cqrs-commandapp-solution</artifactId>
+	<artifactId>bankaccount-query-api</artifactId>
 	<version>1.0.0</version>
-	<name>01-es-cqrs-commandapp-solution</name>
-	<description>Demo project for Spring Boot</description>
+	<name>bankaccount-query-api</name>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -70,6 +69,7 @@
 			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
+
 	<build>
 		<plugins>
 			<plugin>

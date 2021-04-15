@@ -5,14 +5,14 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.cqrs</groupId>
-  <artifactId>cqrs-eventsourcing-app</artifactId>
+  <artifactId>bankaccount-eventsourcing-app</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
   
   <modules>
-  	<module>01-es-cqrs-commandapp-solution</module>
-  	<module>01-es-cqrs-queryapp-solution</module>
-  	<module>cqrs-core-domain</module>
+  	<module>bankaccount-command-api</module>
+  	<module>bankaccount-query-api</module>
+  	<module>bankaccount-core-domain</module>
   </modules>
   
 </project>
