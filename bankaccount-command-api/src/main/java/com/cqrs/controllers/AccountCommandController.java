@@ -19,6 +19,7 @@ public class AccountCommandController {
 
     public AccountCommandController(AccountCommandService accountCommandService) {
         this.accountCommandService = accountCommandService;
+        System.out.println("Email Sent");
     }
 
     @PostMapping
